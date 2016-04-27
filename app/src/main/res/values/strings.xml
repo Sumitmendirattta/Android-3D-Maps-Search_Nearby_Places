@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">AIzaSyB-vjw2UBI9cltxHpmj7T9bXMjbTFu1rlM</string>
+    <string name="Scan_Button">Scan</string>
+    <string name="Media">Media</string>
+    <string name="share">Share</string>
+    <string name="comments">Comments</string>
+    <string name="interact">Interact</string>
+    <string name="nearby">Near By Places</string>
+    <string name="about">About</string>
+
+</resources>
